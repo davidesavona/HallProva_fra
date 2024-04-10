@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20240409-1210-Experimental"
+	Name="raspberrypiVB"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="raspberrypiVB"
+	OSRelease="5.15.61-v8+"
+	OSVersion="#1579 SMP PREEMPT Fri Aug 26 11:16:44 BST 2022"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="99"
+	TotalPhysicalMemory="3794"
+	LogicalProcessorsPerPhysical="4"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Apr 09 15:23 CEST</StartDateTime>
+		<StartTestTime>1712669029</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 09 15:23 CEST</EndDateTime>
+		<EndTestTime>1712669029</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

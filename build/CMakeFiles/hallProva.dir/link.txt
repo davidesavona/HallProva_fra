@@ -1,0 +1,1 @@
+/usr/bin/clang++-11 -g -rdynamic CMakeFiles/hallProva.dir/main.cpp.o CMakeFiles/hallProva.dir/hallsensor.cpp.o -o hallProva  -lpthread -lwiringPi -ljsoncpp 

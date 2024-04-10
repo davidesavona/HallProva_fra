@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pi/HallProva_fra/build",
+  "command": "/usr/bin/clang++-11   -g -o CMakeFiles/hallProva.dir/main.cpp.o -c /home/pi/HallProva_fra/main.cpp",
+  "file": "/home/pi/HallProva_fra/main.cpp"
+},
+{
+  "directory": "/home/pi/HallProva_fra/build",
+  "command": "/usr/bin/clang++-11   -g -o CMakeFiles/hallProva.dir/hallsensor.cpp.o -c /home/pi/HallProva_fra/hallsensor.cpp",
+  "file": "/home/pi/HallProva_fra/hallsensor.cpp"
+}
+]

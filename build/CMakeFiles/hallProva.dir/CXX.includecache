@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/HallProva_fra/hallsensor.h
+
+/home/pi/HallProva_fra/main.cpp
+signal.h
+-
+wiringPi.h
+-
+hallsensor.h
+/home/pi/HallProva_fra/hallsensor.h
+thread
+-
+pthread.h
+-
+numeric
+-
+iostream
+-
+
